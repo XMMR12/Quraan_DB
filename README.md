@@ -9,12 +9,12 @@ Database type:SQLite3
   --IK=ibn katheer=ابن كثير
   
 
-![Showing details (1)](./images/1.png)
+![Showing details (1)](./images/1.PNG)
 --------
-![Showing details (2)](./images/2.png)
+![Showing details (2)](./images/2.PNG)
 --------
-![Showing details (3)](./images/3.png)
+![Showing details (3)](./images/3.PNG)
 ---------
-![Showing details (4)](./images/4.png)
+![Showing details (4)](./images/4.PNG)
 
 
