@@ -3,7 +3,7 @@ The Full Quraan SQLite Database
 Database type:SQLite3
 
 | Database Mapping | <----> |التفسير|
-|:-:|:-:|
+|:-:|:-:|:-:|
 |AQ|al qortobi|القرطبي|
 |AS|al saadi|السعدي|
 |Ba|al baghawy|البغوي|
