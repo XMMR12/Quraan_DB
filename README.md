@@ -56,8 +56,8 @@ $con->close();
 import sqlite3 as sql
 tafseers=["AQ","AS","AT","Ba","IK"]
 taf=tafseers[0]
-s_num=1;//sura number
-a_num=1;//aya number
+s_num=1;#sura number
+a_num=1;#aya number
 con=sql.connect("Quraan.db")
 db=con.cursor()
 t_all=db.execute('select * from `'+taf+'` where `SURA_num`='+str(s_num)+' and `AYA_num`='+str(a_num)).fetchall()
